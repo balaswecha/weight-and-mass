@@ -4,7 +4,7 @@ Differents examples were given to check the weight on differents planets and moo
 Note that masss of the body remains constant as per classical physics
 Steps to follow to find weight of objects in different environments
 
-  1.Plaace the object on the left side of common balance
+  1.Place the object on the left side of common balance
   
   2.Place the correspnding weigh on the right side of common balance
   
