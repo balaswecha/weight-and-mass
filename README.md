@@ -16,6 +16,6 @@ Steps to follow to find weight of objects in different environments
   
   6.Below tablular form shows the exact output
  
- Now we all know the steps to proceed and verify our theoritical knowledge remember that the masss of object remains constant but not weight
+ Now we all know the steps to proceed and verify our theoritical knowledge remember that the masss of object remains constant but not weight.
   
   
