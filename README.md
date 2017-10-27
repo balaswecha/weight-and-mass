@@ -8,7 +8,7 @@ Steps to follow to find weight of objects in different environments
   
   2.Place the correspnding weigh on the right side of common balance
   
-  3.notice that gravity changes from environment to environment
+  3.Notice that gravity changes from environment to environment
   
   4.Fill the formalities as per steps
   
